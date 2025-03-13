@@ -2,7 +2,7 @@
 
 1) 목적 : 의료용영상(DICOM)으로 3D 객체를 만들어 다양한 각도에서 단면을 일정한 두께로 잘라 단면을 확인할 수 있다.
 
-2) 개발도구 : JAVA, eclipse
+2) 개발도구 : JAVA, eclipse, VTK
 
 3) 기능 : DICOM이미지 JPEG변환 3D 객체화, 임의방향 단면 추출, 추출한 다면 보간(NearestNeighbor/Linear/Cubic) 
 
